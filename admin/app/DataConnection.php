@@ -7,7 +7,7 @@ class DataConnection
     public static $username = "root";
     public static $password = "";
     public static $db;
-    public static $dns = 'mysql:host=localhost;dbname=bugun';
+    public static $dns = 'mysql:host=localhost;dbname=perfect';
 
 
     public static function get()
